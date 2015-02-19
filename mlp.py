@@ -6,7 +6,7 @@ import pylab
 import random
 from copy import copy
 
-#Don't forget to update weights !
+
 
 class Network:
 	
